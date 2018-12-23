@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE urlrewrite PUBLIC "-//tuckey.org//DTD UrlRewrite 3.1//EN"
+        "http://tuckey.org/res/dtds/urlrewrite3.1.dtd">
+<urlrewrite>
+    <rule>
+        <note>
+            index页面跳转
+        </note>
+        <from>^/index.html$</from>
+        <to type="forward">/index.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            cases页面跳转
+        </note>
+        <from>^/cases.html$</from>
+        <to type="forward">/cases.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            cases2页面跳转
+        </note>
+        <from>^/cases2.html$</from>
+        <to type="forward">/cases2.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            contactus页面跳转
+        </note>
+        <from>^/contactus.html$</from>
+        <to type="forward">/contactus.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            cul页面跳转
+        </note>
+        <from>^/cul.html$</from>
+        <to type="forward">/cul.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            gmp页面跳转
+        </note>
+        <from>^/gmp.html$</from>
+        <to type="forward">/gmp.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            introduce页面跳转
+        </note>
+        <from>^/introduce.html$</from>
+        <to type="forward">/introduce.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            jiagou页面跳转
+        </note>
+        <from>^/jiagou.html$</from>
+        <to type="forward">/jiagou.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            liucheng页面跳转
+        </note>
+        <from>^/liucheng.html$</from>
+        <to type="forward">/liucheng.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            liucheng2页面跳转
+        </note>
+        <from>^/liucheng2.html$</from>
+        <to type="forward">/liucheng2.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            liucheng3页面跳转
+        </note>
+        <from>^/liucheng3.html$</from>
+        <to type="forward">/liucheng3.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            liucheng4页面跳转
+        </note>
+        <from>^/liucheng4.html$</from>
+        <to type="forward">/liucheng4.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            liucheng5页面跳转
+        </note>
+        <from>^/liucheng5.html$</from>
+        <to type="forward">/liucheng5.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            liucheng6页面跳转
+        </note>
+        <from>^/liucheng6.html$</from>
+        <to type="forward">/liucheng6.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            liucheng7页面跳转
+        </note>
+        <from>^/liucheng7.html$</from>
+        <to type="forward">/liucheng7.jsp</to>
+    </rule>
+
+
+
+    <rule>
+        <note>
+            news页面跳转
+        </note>
+        <from>^/news.html$</from>
+        <to type="forward">/news.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            news页面跳转
+        </note>
+        <from>^/products.html$</from>
+        <to type="forward">/products.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            products001页面跳转
+        </note>
+        <from>^/products001.html$</from>
+        <to type="forward">/products001.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            youshi页面跳转
+        </note>
+        <from>^/youshi.html$</from>
+        <to type="forward">/youshi.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            zhixie页面跳转
+        </note>
+        <from>^/zhixie.html$</from>
+        <to type="forward">/zhixie.jsp</to>
+    </rule>
+
+    <rule>
+        <note>
+            feedback页面跳转
+        </note>
+        <from>^/feedback.html$</from>
+        <to type="forward">/feedback.jsp</to>
+    </rule>
+</urlrewrite>
